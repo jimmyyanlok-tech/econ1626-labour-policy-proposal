@@ -7,12 +7,12 @@
 
 ## Executive Summary
 
-Artificial intelligence is changing the labour market through task automation, worker augmentation, wage effects, and industry restructuring. The main policy problem is not simply mass unemployment, but uneven adjustment: some workers will gain productivity and higher wages, while others may face task displacement, declining bargaining power, or pressure to retrain. Evidence from the IMF, OECD and ILO suggests that AI is likely to reshape occupations by changing tasks rather than eliminating all jobs (Cazzaniga et al. 2024; OECD 2023; ILO 2023). This proposal recommends a targeted policy package combining AI reskilling, wage insurance and transition support, and responsible AI adoption rules. The aim is to improve productivity while reducing inequality and supporting workers most exposed to technological change.
+Artificial intelligence is changing the labour market through task automation, worker augmentation, wage effects, and industry restructuring. The main policy problem is not simply mass unemployment, but uneven adjustment: some workers will gain productivity and higher wages, while others may face task displacement, declining bargaining power, or pressure to retrain. Evidence from the IMF, OECD and ILO suggests that AI is likely to reshape occupations by changing tasks rather than eliminating all jobs (Cazzaniga et al. 2024; OECD 2023; Gmyrek et al. (2023)). This proposal recommends a targeted policy package combining AI reskilling, wage insurance and transition support, and responsible AI adoption rules. The aim is to improve productivity while reducing inequality and supporting workers most exposed to technological change.
 ## Problem Definition and Context
 
 AI is becoming a general-purpose technology that can perform or support cognitive tasks such as writing, coding, customer service, data analysis, administration and decision support. This matters for labour policy because AI changes the demand for skills, the organisation of tasks, and the balance of power between firms and workers. Unlike earlier waves of automation that mainly affected routine manual work, generative AI also affects white-collar and service-sector occupations.
 
-The key issue is that AI does not affect all workers equally. Workers who can use AI to complement their skills may become more productive, while workers in routine clerical, administrative or customer-facing roles may face task substitution. The ILO (2023) argues that generative AI is more likely to augment occupations than fully automate them, but exposure is still uneven across income groups, sectors and gender. The OECD (2023) also notes that AI can improve efficiency and job quality, but may create risks around work intensity, surveillance, privacy and algorithmic bias.
+The key issue is that AI does not affect all workers equally. Workers who can use AI to complement their skills may become more productive, while workers in routine clerical, administrative or customer-facing roles may face task substitution. The Gmyrek et al. (2023) argues that generative AI is more likely to augment occupations than fully automate them, but exposure is still uneven across income groups, sectors and gender. The OECD (2023) also notes that AI can improve efficiency and job quality, but may create risks around work intensity, surveillance, privacy and algorithmic bias.
 
 For government, the policy challenge is to capture the productivity benefits of AI while managing labour-market adjustment. Without intervention, AI adoption may widen wage inequality, increase insecurity for workers in exposed occupations, and strengthen large firms that control data, computing resources and AI systems. A strong policy response should therefore focus on skills, income support, fair workplace use of AI, and competition settings that prevent the benefits of AI from becoming too concentrated.
 ## Analysis of Labour Market Impacts
@@ -25,7 +25,7 @@ Third, AI may increase wage inequality. Workers with high digital skills, strong
 
 Fourth, AI may reshape industry structure. Large firms with access to data, computing power and technical expertise may adopt AI faster than small and medium enterprises. This can widen productivity gaps between firms and increase market concentration. From a policy perspective, the labour-market issue is therefore linked to competition and data policy. If AI benefits are concentrated in a small number of firms, workers may have fewer employment options and weaker bargaining power.
 
-The distributional impacts are also important. The ILO (2023) finds that clerical occupations have high exposure to generative AI, and because clerical work is an important source of female employment, the effects may be gendered. Younger workers may benefit from faster digital adaptation, but may also face reduced entry-level opportunities if junior tasks are automated. A fair policy response should therefore target workers and sectors with high exposure and low ability to adapt.
+The distributional impacts are also important. The Gmyrek et al. (2023) finds that clerical occupations have high exposure to generative AI, and because clerical work is an important source of female employment, the effects may be gendered. Younger workers may benefit from faster digital adaptation, but may also face reduced entry-level opportunities if junior tasks are automated. A fair policy response should therefore target workers and sectors with high exposure and low ability to adapt.
 
 ## Policy Options
 
@@ -49,7 +49,7 @@ The recommended approach is an integrated AI labour-market adjustment package. T
 | Stage 2 | 6-18 months | Employment services; education providers; industry bodies | Deliver subsidised short courses and provide wage insurance, career counselling and placement support for affected workers. | Training completion rate; re-employment rate; wage recovery rate. |
 | Stage 3 | 18-36 months | Treasury; competition regulator; workplace relations agencies | Introduce responsible AI workplace guidance, bias and privacy assessments, and monitoring of market concentration. | Compliance rate; worker consultation rate; SME AI adoption rate. |
 
-Implementation should prioritise clerical, administrative, customer-service and junior analytical roles because these are highly exposed to generative AI. Jobs and Skills Australia should use occupation and industry data to update the exposure map each year (Jobs and Skills Australia 2026). The program should also monitor employer skill demand, including AI literacy, analytical thinking and digital skills (World Economic Forum 2025). Costs should be moderate at first, using pilots before national expansion. This allows government to test which courses and supports produce real job outcomes before scaling the package.
+Implementation should prioritise clerical, administrative, customer-service and junior analytical roles because these are highly exposed to generative AI. Jobs and Skills Australia should use occupation and industry data to update the exposure map each year (Jobs and Skills Australia n.d.). The program should also monitor employer skill demand, including AI literacy, analytical thinking and digital skills (World Economic Forum 2025). Costs should be moderate at first, using pilots before national expansion. This allows government to test which courses and supports produce real job outcomes before scaling the package.
 
 ## Risks and Mitigations
 
@@ -60,12 +60,24 @@ Implementation should prioritise clerical, administrative, customer-service and 
 | Firms use AI in unfair or opaque ways | Require worker consultation, privacy safeguards, bias testing and clear accountability for AI-assisted decisions. |
 | AI benefits concentrate in large firms | Support SME adoption and monitor data access, mergers and anti-competitive conduct. |
 
-The main risk is that policy becomes either too passive or too restrictive. A passive approach would allow inequality and displacement costs to rise, while excessive regulation could reduce innovation. The better approach is adaptive regulation: clear rules for high-risk workplace uses of AI, combined with flexibility for low-risk productivity tools. This is consistent with Australia’s responsible AI direction, which emphasises safe and responsible governance rather than banning AI use (Department of Industry, Science and Resources 2025).
+The main risk is that policy becomes either too passive or too restrictive. A passive approach would allow inequality and displacement costs to rise, while excessive regulation could reduce innovation. The better approach is adaptive regulation: clear rules for high-risk workplace uses of AI, combined with flexibility for low-risk productivity tools. This is consistent with Australia’s responsible AI direction, which emphasises safe and responsible governance rather than banning AI use (Department of Industry, Science and Resources 2019).
 
 ## AI Acknowledgement
 
 I used ChatGPT (OpenAI 2026) to assist with interpreting the assessment brief, structuring the proposal, drafting initial wording, improving clarity, and editing language. I reviewed and edited the final policy arguments, source selection, evidence, and submitted content.
 
 ## References
+Cazzaniga M, Jaumotte F, Li L, Melina G, Panton AJ, Pizzinelli C, Rockall EJ and Tavares MM (2024) *Gen-AI: Artificial intelligence and the future of work*, International Monetary Fund, accessed 15 May 2026. https://www.imf.org/en/publications/staff-discussion-notes/issues/2024/01/14/gen-ai-artificial-intelligence-and-the-future-of-work-542379
 
-OpenAI (2026) ChatGPT [Large language model], accessed 15 May 2026. https://chatgpt.com/
+Department of Industry, Science and Resources (2019) *Australia's AI Ethics Principles*, Department of Industry, Science and Resources website, accessed 15 May 2026. https://www.industry.gov.au/publications/australias-ai-ethics-principles
+
+Gmyrek P, Berg J and Bescond D (2023) *Generative AI and jobs: a global analysis of potential effects on job quantity and quality*, International Labour Organization, accessed 15 May 2026. https://www.ilo.org/publications/generative-ai-and-jobs-global-analysis-potential-effects-job-quantity-and
+
+Jobs and Skills Australia (n.d.) *Our role*, Jobs and Skills Australia website, accessed 15 May 2026. https://www.jobsandskills.gov.au/engage/about/our-role
+
+OECD (2023) *OECD Employment Outlook 2023: Artificial intelligence and the labour market*, OECD Publishing, accessed 15 May 2026. https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en.html
+
+OpenAI (2026) *ChatGPT* [large language model], OpenAI website, accessed 15 May 2026. https://chatgpt.com/
+
+World Economic Forum (2025) *The Future of Jobs Report 2025*, World Economic Forum website, accessed 15 May 2026. https://www.weforum.org/publications/the-future-of-jobs-report-2025/
+
