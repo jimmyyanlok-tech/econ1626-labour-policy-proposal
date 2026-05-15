@@ -29,14 +29,15 @@ The distributional impacts are also important. The ILO (2023) finds that clerica
 
 ## Policy Options
 
-[Develop at least three policy options and evaluate them using clear criteria such as efficiency, equity, feasibility, cost, and implementation speed.]
+Three options are considered against four criteria: efficiency, equity, feasibility and speed. The best response is not a single policy, because AI creates both productivity opportunities and adjustment costs.
 
 | Policy Option | Efficiency | Equity | Feasibility | Key Trade-off |
 |---|---|---|---|---|
-| Option 1: Targeted AI reskilling program |  |  |  |  |
-| Option 2: Wage insurance and transition support |  |  |  |  |
-| Option 3: Responsible AI adoption and competition policy |  |  |  |  |
+| Option 1: Targeted AI reskilling program | High: improves worker productivity and mobility. | High if targeted to exposed workers, women in clerical roles and low-income workers. | Medium: requires employer and education-provider coordination. | Benefits may be slow if training is not linked to real vacancies. |
+| Option 2: Wage insurance and transition support | Medium: reduces income shock and supports job search. | High: protects displaced workers and those facing wage losses. | Medium-high: can build on existing employment services. | May be costly if eligibility is too broad. |
+| Option 3: Responsible AI adoption and competition policy | High: encourages productive and fair AI use. | Medium-high: reduces bias, surveillance and market concentration risks. | Medium: requires clear rules and enforcement capacity. | Too much regulation may slow innovation. |
 
+Option 1 is essential because long-term adjustment depends on skills. It should fund short, job-linked courses in AI literacy, data use, cybersecurity and sector-specific digital skills. Option 2 addresses workers who cannot transition quickly by offering temporary wage insurance, career counselling and job-placement support. Option 3 ensures that firms adopting AI consult workers, assess bias and privacy risks, and do not use data advantages to entrench market power. Overall, the strongest approach is a combined package rather than choosing one option alone.
 ## Recommended Policy Package and Implementation Plan
 
 [Recommend a clear package and explain timeline, responsible agencies, costs, and KPIs.]
