@@ -38,9 +38,18 @@ Three options are considered against four criteria: efficiency, equity, feasibil
 | Option 3: Responsible AI adoption and competition policy | High: encourages productive and fair AI use. | Medium-high: reduces bias, surveillance and market concentration risks. | Medium: requires clear rules and enforcement capacity. | Too much regulation may slow innovation. |
 
 Option 1 is essential because long-term adjustment depends on skills. It should fund short, job-linked courses in AI literacy, data use, cybersecurity and sector-specific digital skills. Option 2 addresses workers who cannot transition quickly by offering temporary wage insurance, career counselling and job-placement support. Option 3 ensures that firms adopting AI consult workers, assess bias and privacy risks, and do not use data advantages to entrench market power. Overall, the strongest approach is a combined package rather than choosing one option alone.
+
 ## Recommended Policy Package and Implementation Plan
 
-[Recommend a clear package and explain timeline, responsible agencies, costs, and KPIs.]
+The recommended approach is an integrated AI labour-market adjustment package. The government should not try to slow AI adoption, because this would reduce productivity and innovation. Instead, it should shape adoption so that workers share in the benefits. The package should combine targeted reskilling, transition support and responsible AI workplace rules.
+
+| Stage | Timeline | Responsible Body | Key Action | KPI |
+|---|---|---|---|---|
+| Stage 1 | 0-6 months | Department of Employment and Workplace Relations; Jobs and Skills Australia | Identify high-exposure occupations and design job-linked AI training with employers and TAFE/university partners. | Exposure map completed; priority sectors selected. |
+| Stage 2 | 6-18 months | Employment services; education providers; industry bodies | Deliver subsidised short courses and provide wage insurance, career counselling and placement support for affected workers. | Training completion rate; re-employment rate; wage recovery rate. |
+| Stage 3 | 18-36 months | Treasury; competition regulator; workplace relations agencies | Introduce responsible AI workplace guidance, bias and privacy assessments, and monitoring of market concentration. | Compliance rate; worker consultation rate; SME AI adoption rate. |
+
+Implementation should prioritise clerical, administrative, customer-service and junior analytical roles because these are highly exposed to generative AI. Jobs and Skills Australia should use occupation and industry data to update the exposure map each year (Jobs and Skills Australia 2026). The program should also monitor employer skill demand, including AI literacy, analytical thinking and digital skills (World Economic Forum 2025). Costs should be moderate at first, using pilots before national expansion. This allows government to test which courses and supports produce real job outcomes before scaling the package.
 
 | Stage | Timeline | Responsible Body | Key Action | KPI |
 |---|---|---|---|---|
