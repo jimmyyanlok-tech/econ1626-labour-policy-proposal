@@ -51,22 +51,16 @@ The recommended approach is an integrated AI labour-market adjustment package. T
 
 Implementation should prioritise clerical, administrative, customer-service and junior analytical roles because these are highly exposed to generative AI. Jobs and Skills Australia should use occupation and industry data to update the exposure map each year (Jobs and Skills Australia 2026). The program should also monitor employer skill demand, including AI literacy, analytical thinking and digital skills (World Economic Forum 2025). Costs should be moderate at first, using pilots before national expansion. This allows government to test which courses and supports produce real job outcomes before scaling the package.
 
-| Stage | Timeline | Responsible Body | Key Action | KPI |
-|---|---|---|---|---|
-| Stage 1 | 0-6 months |  |  |  |
-| Stage 2 | 6-18 months |  |  |  |
-| Stage 3 | 18-36 months |  |  |  |
-
 ## Risks and Mitigations
-
-[Explain key risks and how government can reduce them.]
 
 | Risk | Mitigation |
 |---|---|
-| Training does not match employer demand |  |
-| Vulnerable workers cannot access support |  |
-| Firms use AI in unfair or opaque ways |  |
-| AI benefits concentrate in large firms |  |
+| Training does not match employer demand | Require employer input, work-integrated learning and regular review of course outcomes. |
+| Vulnerable workers cannot access support | Provide fee subsidies, online and flexible delivery, and targeted outreach to low-income, regional and older workers. |
+| Firms use AI in unfair or opaque ways | Require worker consultation, privacy safeguards, bias testing and clear accountability for AI-assisted decisions. |
+| AI benefits concentrate in large firms | Support SME adoption and monitor data access, mergers and anti-competitive conduct. |
+
+The main risk is that policy becomes either too passive or too restrictive. A passive approach would allow inequality and displacement costs to rise, while excessive regulation could reduce innovation. The better approach is adaptive regulation: clear rules for high-risk workplace uses of AI, combined with flexibility for low-risk productivity tools. This is consistent with Australia’s responsible AI direction, which emphasises safe and responsible governance rather than banning AI use (Department of Industry, Science and Resources 2025).
 
 ## AI Acknowledgement
 
