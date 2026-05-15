@@ -7,12 +7,14 @@
 
 ## Executive Summary
 
-[Write 120-150 words summarising the policy problem, key impacts, and recommended policy package.]
-
+Artificial intelligence is changing the labour market through task automation, worker augmentation, wage effects, and industry restructuring. The main policy problem is not simply mass unemployment, but uneven adjustment: some workers will gain productivity and higher wages, while others may face task displacement, declining bargaining power, or pressure to retrain. Evidence from the IMF, OECD and ILO suggests that AI is likely to reshape occupations by changing tasks rather than eliminating all jobs (Cazzaniga et al. 2024; OECD 2023; ILO 2023). This proposal recommends a targeted policy package combining AI reskilling, wage insurance and transition support, and responsible AI adoption rules. The aim is to improve productivity while reducing inequality and supporting workers most exposed to technological change.
 ## Problem Definition and Context
 
-[Explain how AI is changing work, why this matters for government, and which labour market channels are most important.]
+AI is becoming a general-purpose technology that can perform or support cognitive tasks such as writing, coding, customer service, data analysis, administration and decision support. This matters for labour policy because AI changes the demand for skills, the organisation of tasks, and the balance of power between firms and workers. Unlike earlier waves of automation that mainly affected routine manual work, generative AI also affects white-collar and service-sector occupations.
 
+The key issue is that AI does not affect all workers equally. Workers who can use AI to complement their skills may become more productive, while workers in routine clerical, administrative or customer-facing roles may face task substitution. The ILO (2023) argues that generative AI is more likely to augment occupations than fully automate them, but exposure is still uneven across income groups, sectors and gender. The OECD (2023) also notes that AI can improve efficiency and job quality, but may create risks around work intensity, surveillance, privacy and algorithmic bias.
+
+For government, the policy challenge is to capture the productivity benefits of AI while managing labour-market adjustment. Without intervention, AI adoption may widen wage inequality, increase insecurity for workers in exposed occupations, and strengthen large firms that control data, computing resources and AI systems. A strong policy response should therefore focus on skills, income support, fair workplace use of AI, and competition settings that prevent the benefits of AI from becoming too concentrated.
 ## Analysis of Labour Market Impacts
 
 [Analyse AI's effects on employment, tasks, wages, industry structure, and distributional equity.]
